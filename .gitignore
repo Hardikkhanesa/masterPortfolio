@@ -9,7 +9,7 @@
 # testing
 /coverage
 
-
+git_data_fetcher.js
 
 # misc
 .DS_Store
